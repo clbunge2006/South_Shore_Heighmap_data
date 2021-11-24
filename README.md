@@ -5,7 +5,7 @@ Heightmap repository of geographic regions located on the South Shore of Massach
 
 ## Specifications of combined map.
 
-Download Link : https://drive.google.com/file/d/1amzVd9LH2UYglNhSfulxIw3B_1blrnsX/view?usp=sharing
+Uncompressed Download Link : https://drive.google.com/file/d/1amzVd9LH2UYglNhSfulxIw3B_1blrnsX/view?usp=sharing
 
 - Map is aproximately 45km by 55km in size
 - Maximum height value of 83 meters, minimum of -31 meters
