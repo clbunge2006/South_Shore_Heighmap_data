@@ -3,7 +3,7 @@ Heightmap repository of geographic regions located on the South Shore of Massach
 
 (Map_clip_final is the reduced file)
 
-![Preview Image](Cohasset_geo_thumb.png)
+![Preview Image](Map_thumb_clip.png)
 
 **1/9th arc second archive downlaods can be found in geo_data.txt.**
 
