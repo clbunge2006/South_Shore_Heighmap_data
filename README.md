@@ -1,5 +1,6 @@
 # South_Shore_Heighmap_data
 Heightmap repository of geographic regions located on the South Shore of Massachusetts.
+
 (Map_clip_final is the reduced file)
 
 ![Preview Image](Cohasset_geo_thumb.png)
